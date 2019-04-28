@@ -2,6 +2,10 @@ import _ from "lodash";
 import './style.css';
 import Webpack from './webpack.svg';
 
+import CSV from './aaa.csv'
+import XML from './bbb.xml'
+import JSONData from './ccc.json'
+
 console.log("Hello world!");
 
 
